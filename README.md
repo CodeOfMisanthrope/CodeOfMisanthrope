@@ -32,4 +32,6 @@
 
 ## Контакты
 
-[Telegram](https://t.me/Typeerror_const)
+[Telegram](https://t.me/Typeerror_const)  
+[Email](mailto:iosdsbb@example.com)  
+[Телефон](tel:+79995173473)
