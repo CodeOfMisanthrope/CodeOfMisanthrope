@@ -17,7 +17,7 @@
 
 ## Опыт
 
-Опыт в основном, был связан с Desktop (Electron, Tauri).
+Опыт, в основном, был связан с Desktop (Electron, Tauri).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fower-code)](https://github.com/anuraghazra/github-readme-stats)
 
