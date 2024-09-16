@@ -23,4 +23,4 @@
 
 ## Контакты
 
-tg - https://t.me/Typeerror_const
+[Telegram](https://t.me/Typeerror_const)
