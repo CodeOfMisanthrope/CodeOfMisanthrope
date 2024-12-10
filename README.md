@@ -1,6 +1,8 @@
 # Frontend Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fower-code)](https://github.com/anuraghazra/github-readme-stats)
+## Most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fower-code&hide_title=true&layout=compact&langs_count=5&card_width=250&bg_color=080808&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills:
 
