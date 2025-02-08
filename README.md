@@ -6,7 +6,7 @@
 
 ## 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,webpack,rollupjs,nodejs,yarn,electron,tauri,rust,haskell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,webpack,rollupjs,nodejs,yarn,docker,gitlab,electron,tauri,rust,haskell&theme=dark)](https://skillicons.dev)
 
 ## 📫 Contact me
 
