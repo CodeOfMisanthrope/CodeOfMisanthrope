@@ -15,4 +15,4 @@
 ## 📫 Contact me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/Typeerror_const)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:iosdsbbl@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:iosdsbb@gmail.com)
